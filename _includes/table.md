@@ -1,4 +1,4 @@
-| First Name   | Middle name | Last name     |
-| :---         |    :----:   |          ---: |
-| Austin       | Bwanika     | Kasekende.    |
-| Jonathan     | Makumbi     | Dumba         |
+First | Middle | Last 
+:--   | :--:   | --: 
+Austin| Bwanika|Kasekende 
+Micheal|Octavius| Gross
