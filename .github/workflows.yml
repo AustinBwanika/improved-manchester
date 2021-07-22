@@ -1,0 +1,12 @@
+name: A workflow to show Github Actions 
+   on: 
+     page_build 
+     
+jobs: 
+    build: 
+        name: Github Actions 
+        runs-on: ubuntu-latest 
+            steps: 
+            - uses: actions/checkout@v1 
+                with: 
+                    MY_NAME: "Austin"
