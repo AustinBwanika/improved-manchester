@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-<br> 
-
-{% include table.md %}
 
 <br>
 
