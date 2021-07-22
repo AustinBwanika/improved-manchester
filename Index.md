@@ -14,5 +14,5 @@ layout: default
 
 <br>
 
-{% include lists.md %}
+{% include Lists.md %}
 
