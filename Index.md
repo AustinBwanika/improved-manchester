@@ -1,4 +1,21 @@
-<h1> Welcome to my page! 
-  <h4> *This is a page completely assigned to overlook my playlist projects*
-    <h6> Run by Austin.B 
-  
+---
+layout: default
+---
+
+{% include name.md %}
+
+<br>
+
+{% include image.md %}
+
+<br>
+
+{% include links.md %}
+
+<br>
+
+{% include lists.md %}
+
+<br>
+
+{% include .md %}
